@@ -1,0 +1,19 @@
+{
+  "name": "kentico-cloud-sample-project",
+  "version": "0.0.1",
+  "description": "Sample blog based on the default Kentico Cloud sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherJennings/kentico-cloud-sample-project.git"
+  },
+  "author": "Christopher Jennings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristopherJennings/kentico-cloud-sample-project/issues"
+  },
+  "homepage": "https://github.com/ChristopherJennings/kentico-cloud-sample-project#readme"
+}
